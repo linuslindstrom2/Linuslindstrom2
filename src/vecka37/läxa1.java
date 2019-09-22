@@ -33,7 +33,7 @@ public static void main(String[] args) {
 		String nummer = input.nextLine();
 		
 		System.out.println("\nInformation:");
-		System.out.println("Namn:" + "\t" + namn + "\n" + "Ålder:" + "\t"  + ålder +"\n" + "Adress:" + "\t" + adress + "\n" + "\t" + postnummer + " " + stad + "\n" + "nummer:" + "\t" + nummer );
+		System.out.println("Namn:" + "\t" + namn + "\n" + "Ålder:" + "\t"  + ålder +"\n" + "Adress:" + "\t" + adress + "\n" + "\t" + postnummer + " " + stad + "\n" + "Nummer:" + "\t" + nummer );
 
 		}
 
