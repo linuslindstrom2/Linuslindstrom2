@@ -2,6 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="vecka38"/>
+	<classpathentry kind="src" path="vecka39"/>
+	<classpathentry kind="src" path="vecka37"/>
+	<classpathentry kind="src" path="läxor"/>
+	<classpathentry kind="src" path="kattis"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,6 +1,7 @@
+
 import java.util.Scanner;
 
-public class R2 {
+public class Abracadabra {
 
 	private static Scanner input;
 
@@ -8,12 +9,11 @@ public class R2 {
 
 		input = new Scanner(System.in);
 
-		int r1 = input.nextInt();
+		int n = input.nextInt();
 
-		int s = input.nextInt();
-
-		System.out.println(s * 2 - r1);
+		for (int s = 1; s <= n; s++) {
+			System.out.println(s + " Abracadabra");
+		}
 
 	}
-
 }
