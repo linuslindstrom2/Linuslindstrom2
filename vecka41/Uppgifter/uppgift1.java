@@ -19,12 +19,12 @@ public class uppgift1 {
         
         int tal2 = input.nextInt();
         
-        if(tal1>tal2) {
-        	System.out.println(tal1 + " är störst.");
+        if(tal1<tal2) {
+        	System.out.println(tal1 + " är minst.");
         	}
         
-        	else if(tal2>tal1) {
-        		System.out.println(tal2 + " är störst.");
+        	else if(tal2<tal1) {
+        		System.out.println(tal2 + " är minst.");
         		
         	}
         	else if (tal1 == tal2){
