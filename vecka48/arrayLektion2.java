@@ -12,9 +12,8 @@ public class arrayLektion2 {
 			
 			for(int j=0; j<namn[i].length(); j++) { //kollar bokstav för bokstav vad det är för bokstav. 
 				
-				if(namn[i].contains("a")) { //Kollar om bokstaven är ett a
+				if(namn[i].charAt(j) == 'a' || namn[i].charAt(j) == 'A') { //Kollar om bokstaven är ett a
 					antalA++; // isåfall då ökar antalA med 1. 
-					
 				}
 			}				
 		
