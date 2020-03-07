@@ -16,7 +16,7 @@ public class arrayLektion2 {
 					antalA++; // isåfall då ökar antalA med 1. 
 				}
 			}				
-		
+	
 			System.out.println(antalA);
 		
 		}
